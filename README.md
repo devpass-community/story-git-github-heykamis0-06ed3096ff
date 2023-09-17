@@ -1,6 +1,9 @@
+# Preparar, configurar... Git Push
 
-# Ready, Set... Git Push
+Esta é a sua primeira CodeStory na Evercode.
 
-This is your first CodeStory at Evercode.
+Você praticará habilidades comuns do Git que usará durante seu trabalho aqui.
 
-You're going to practice common Git skills that you'll use during your work here.
+## Colaboradores
+
+- Kamiah Alves 
